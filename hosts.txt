@@ -12,6 +12,8 @@
 127.0.0.1  hiyobi.me
 127.0.0.1  hitomi.la
 127.0.0.1  sora.la
+127.0.0.1  e-hentai.org
+127.0.0.1  exhentai.org
 
 # other
 
