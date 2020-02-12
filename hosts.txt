@@ -1,0 +1,24 @@
+#
+# safe kids host
+#
+
+127.0.0.1  localhost
+
+# 19
+127.0.0.1  www.pornhub.com
+127.0.0.1  pornhub.com
+127.0.0.1  xvideos.com
+127.0.0.1  www.xvideos.com
+127.0.0.1  hiyobi.me
+127.0.0.1  hitomi.la
+127.0.0.1  sora.la
+
+# other
+
+127.0.0.1  ilbe.com
+127.0.0.1  www.ilbe.com
+127.0.0.1  womad.life
+127.0.0.1  cafe118.daum.net/_c21_/home?grpid=aVeZ
+127.0.0.1  femiwiki.com
+127.0.0.1  mogef.go.kr
+127.0.0.1  www.mogef.go.kr
